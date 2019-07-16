@@ -1,3 +1,5 @@
 netselect
+mirrors*
+sources.list*
 *.o
 *~
